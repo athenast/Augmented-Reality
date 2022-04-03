@@ -23,17 +23,17 @@
         <a-entity id="annyang" annyang-speech-recognition></a-entity>
 
         <a-entity id="speech command"
-            speech-command__show="command: start; type: attribute; attribute: visible; targetElement: #stars; value: true;"
-            speech-command__hide="command: stop; type: attribute; attribute: visible; targetElement: #stars; value: false;">
+            speech-command__show="command: start; type: attribute; attribute: visible; targetElement: #snow; value: true;"
+            speech-command__hide="command: stop; type: attribute; attribute: visible; targetElement: #snow; value: false;">
 
         </a-entity>
 
-        <a-entity id="snow" particle-system="preset: rain; color: #24CAFF; particleCount: 5000"></a-entity>
+        <a-entity id="snow" particle-system="preset: snow; color: #24CAFF; particleCount: 5000"></a-entity>
 
         <a-marker preset="hiro">
 
 
-            <a-entity id="box" geometry="primitive: box; width: 0.4; depth: 0.4; height: 0.4" position="-0.6 -0.4 0.1"
+            <a-entity id="box" geometry="primitive: box; width: 0.9; depth: 0.4; height: 0.4" position="-0.6 -0.4 0.1"
                 material="color: #4CC3D9"></a-entity>
             <a-entity id="cylinder" geometry="primitive: cylinder; width: 0.5; depth: 0.3 height: 1.6" position="1 0.75 1"
                 material="color: #FFC65D"></a-entity>
