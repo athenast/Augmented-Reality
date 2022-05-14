@@ -18,6 +18,12 @@
 
 
 # 2nd Deliverable
+1o Βήμα : Παρακολούθησα το βιντεο με το ανιματιον https://www.youtube.com/watch?v=Qi3h18wJJiI 
+2ο Βήμα : Ξεκίνησα φτιάχνοντας το marker για το dpsd μου στο Photoshop της Adobe. Στη συνέχεια χρησιμοποίησα την ιστοσελίδα AR.js Marker Training για να δημιουργήσω τα markers του Η, του Ο και του dpsd μου. 
+(19122). 
+3ο Βήμα : Χρημοποίησα έτοιμα gltf models για το υδρογόνο και το οξυγόνο, γιατί δεν ήξερα πως να δημουργήσω τα δικά μου. Τα gltf τα βρηκα από αυτή την ιστοσελίδα https://www.turbosquid.com/Search/3D-Models/kraken
+
+Δεν καταφερα να κάνω την απόσταση των 2 markers 
 
 
 # 3rd Deliverable 
