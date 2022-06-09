@@ -38,6 +38,10 @@
 Είχα θέμα με την εμφάνιση της φωτογραφίας. Στην αρχή μου έβγαζε μια 3D ακανόνιστη φόρμα παρόλο που δεν υπήρχε λάθος στον κώδικα, αλλά μετά εφτιαξε (μάλλον είχε λαγκάρει) 
 
 ***Επίσης το κλικ λειτουργει κανοκικά.***
+![Screenshot (41)](https://user-images.githubusercontent.com/101419410/172930500-2e5b76e9-bf35-4643-b0ac-3a26cfa39ca9.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/101419410/172930508-6e5cf8fd-174d-4173-b1be-de77b6c1421d.png)
+
+
 # Conclusions
 
 
